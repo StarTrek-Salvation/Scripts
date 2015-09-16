@@ -3,6 +3,8 @@ _I don't like the surname_
 Character Name: Cassandra Hayle
 Nickname: Cassie
 Age: 31
+Race: Human
+Sub-race: American
 
 Organisation: Star Fleet
 Rank: Lieutenant Commander 

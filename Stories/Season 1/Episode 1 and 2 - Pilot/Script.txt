@@ -58,6 +58,7 @@ They streak over to Cassie's ship and, with no shields, it's a sure kill.  They 
 INT. SHIP'S BRIDGE
 
 We watch as Cassie, still standing at the engineering console, is surround in explosions and then a brilliant white light...
+
 Which fades to reveal Cassie still standing in the same position, the recognisable lines of a holodeck in the background.
 
 JESSICA HAYLE (O.S)
@@ -96,7 +97,6 @@ Suddenly the penny drops.  Cassie nods.
 
 
 CASSIE
-(cont)
 I think I understand.  Each time I rush to help the engineer.  But he's trained in power distribution systems, I'm not.  
   
 I should stay in command and trust that my crew can do their jobs.
@@ -116,6 +116,7 @@ They briefly hug.
 
 
 ADMIRAL JACK POPE (O.S)
+(Over communicator badge)
 Admiral Pope to Lieutenant Commander Hayle
 
 
@@ -126,7 +127,7 @@ CASSIE
 Go ahead, Admiral.
 
 JACK
-Report to my office, Cassie.
+Report to my office, Cassandra.
 
 CASSIE
 Acknowledged.
@@ -143,6 +144,7 @@ I hope it won't be too long, I get so bored.
 
 
 They both quickly embrace again and Cassie walks away, towards and past the camera.
+
 We stay looking at Jessica as we hear the sound of doors opening and closing.
 
 
@@ -158,4 +160,227 @@ EXT. STARFLEET ACADEMY - DAY
 Short establishing shot of a very busy, bright and prosperous Starfleet Academy.
 
 INT. ADMIRAL POPE'S OFFICE
+
+POPE
+The Salvation is ready for it's maiden voyage, Cassandra.
+
+CASSIE
+I'd heard.  The last simulation went well?
+
+POPE
+No issues found.
+(pause)
+All within operational parameters.
+
+CASSIE
+And that's management speak for...?
+
+POPE
+Look, Cassie.  This is an experimental drive - the Reese-Montgomery propulsion system has never been tested on a real ship.
+  
+All simulations have been sucessful, the device has been powered and charged without incident... 
+But - a maiden voyage is never without risk.
+
+CASSIE
+I understand that, I just wanted to see where I stood.
+
+POPE
+Where *you* stood?
+
+CASSIE
+Well, you didn't call me in here to tell me something I already knew.
+  
+Everyone can't stop talking about how the brave Captain Montgomery's taking the USS Salvation to the edge of the galaxy and back...
+(pause)
+You obviously want me to join the crew. 
+
+POPE
+I don't want you to join it, Cas. I want you to captain the Salvation.
+
+CASSIE
+But, Captain Montgomery...
+ 
+POPE
+Captain Montgomery cannot go, Cassie.  For all our medical advances there's one thing we can't stop, old age.  His mind is sharp, but his body is not up to the rigors of a shakedown cruise.
+ 
+CASSIE
+Why me? I've never captained a real ship before.
+ 
+POPE
+You have.
+
+Cassie tries to speak but the Admiral raises his hand.
+
+POPE
+(cont)
+I know that was only back to Earth after your captain fell ill, but you've still been in command of a star ship.
+  
+Montgomery is unable to captain the Salvation and so you're the only choice we have.
+  
+You were top in your class on Transwarp drives and the only available command officer we have that's not assigned to a ship.
+  
+You will take the Salvation and pilot her outside the solar system.
+  
+From there you will engage the Reese-Montgomery drive and take her as far as you can.  Then ... turn around and come back.
+
+Pope smiles at an obviously shocked Cassie
+
+POPE
+(cont)
+I know it's a lot to take in, but the maiden voyage is scheduled for tomorrow afternoon, San Francisco time, and we need you there.
+ 
+CASSIE
+One request, sir.
+
+Pope inclines his head
+
+CASSIE
+I have a private holodeck program... A training course of sorts.  I would like that to be uploaded to the Salvation's main memory banks.
+
+POPE
+Consider it done.  Good luck, Captain Hayle.
+
+CROSS FADE TO:
+
+EXT. SPACE
+
+A shuttlecraft floats through space, through the window we see Cassie and a man.
+ 
+The man, Lt Cdr Christopher Reese (35, English), is piloting.
+
+As the shuttlecraft moves we see the glimpse of a larger, very impressive, ship behind it.
+
+INT. SHUTTLECRAFT
+
+REESE
+Impressive, isn't she.
+
+Cassie moves to get a better look out of the shuttlecraft's window.
+
+CASSIE
+(in awe)
+The word I would use is amazing.
+
+REESE
+Bloody big, that's what I'd use. Bigger than any other ship Starfleet has made.
+  
+(pause)
+  
+Bigger than some space stations.
+
+CASSIE
+(distracted by the colossus)
+Really?
+
+REESE
+Oh, yes.  She's an old experimental ship from the Dominion wars that never saw action.
+  
+CASSIE
+(still distracted, staring at the ship)
+You seem to know a lot about it for a pilot.
+
+REESE
+(without responding to the implied question)
+The Dominion were pumelling us with energy weapons that ripped through our shields, we realised that the only ships that survived were ones with ablative armour, like the USS Defiant.
+  
+CASSIE
+(A little more interested)
+But you can't retrofit ablative armour to the large ships, like Galaxy and Excelsior classes.
+
+REESE
+No, so work started on this beauty.  A large behemoth of a ship - little more than ablative armour itself.
+  
+On the inside it was almost totally hollow, but with launch tubes for shuttle-sized fighters, and larger, delta flyer class ships - all to be equipped with ablative armour.
+
+Reese started doing hand motions with both hands, imitating fighters.  Obviously excited by his re-telling.
+
+REESE
+They could come screaming out of the Salvation to attack The Dominion, doing as much damage as they could.
+  
+Then retreat into the safety of their hangers while the larger ship prepared to warp away.
+
+He claps his hands with finality and "whooshed" a warp noise to end his story.
+
+CASSIE
+But we defeated The Dominion anyway.
+
+REESE
+Yes, and so the ship was mothballed, almost totally complete but totally useless with the peace of today.
+  
+Captain Montgomery found it in some ship-yard around Alpha Centauri, towed it back here and installed the drive...
+  
+It needs all that space, the drive.  It's just a prototype, you see.
+  
+We're coming to the docking port now, prepare for departure, Captain.
+
+CASSIE
+"Lieutenant Commander", I'm not on my ship yet.
+
+REESE
+In that case - prepare for departure, *Lieutenant Commander*.
+
+INT. USS SALVATION'S DOCKING PORT
+
+The shuttlecraft enters and lands.  Waiting for the shuttle craft is, most of, the senior crew.
+
+The shuttlecraft door opens and Cassie steps forward and out.
+
+CASSIE
+Thank you, pilot.  You're dismissed.
+
+Reese smiles and follows Cassie through the doorway.
+
+Cassie looks confused and is about to say something before she's interrupted by Commander Sa'ar (Klingon, Female)
+
+SA'AR
+Welcome Captain.  I am Commander Sa'ar of the house of Odas, your first officer.
+  
+Let me introduce the rest of your senior staff.
+  
+First Lieutenant XXXX, Science officier
+Lieutenant Commander XXXX, Chief of security
+Doctor XXXX, Medical
+Ensign XXXX, Ops
+
+CASSIE
+(in "Captain mode")
+Greeting, everyone.  I can't tell you how excited I am for this voyage.  I'm sure you will all exceed my expectations.
+  
+Where is my Chief Engineer, hidden up some Jefferies tube no doubt?
+
+Sa'ar looks shocked and glances behind Cassie.
+
+Reese steps around Cassie and stands next to Sa'ar, a big smile on his face.
+
+REESE
+Chief Engineer, Lieutenant Commander Christopher James Reese.
+
+Reese offered a smart salut with just the slightest hint of mockery.
+
+REESE
+(cont)
+Reporting for duty, *Captain*.
+
+Cassie looks annoyed at being taken for a fool but after a moment, sees the joke.
+
+A small, almost imperceptable, smile crosses her face before her composure is back.
+
+CASSIE
+I'll speak to you later, Lieutenant.
+  
+Make a fool of me again and I'll flush you out of the nearest airlock.
+
+Reese is still smiling like that would be the most wonderful experience of his life.
+
+REESE
+Yes, sir.
+
+Cassie turns to Sa'ar.
+
+CASSIE
+Show me my bridge please, Commander.  Everyone else... carry on.
+
+INT. USS SALVATION BRIDGE
+
+The "whoosh" of a turbo-lift door opening reveals Cassie and Sa'ar.
 
