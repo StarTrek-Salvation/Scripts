@@ -1,15 +1,17 @@
 Title:
 	Star Trek - Salvation
 	S01E01-02 - "Pilot"
-	
+
+
 INT. SHIP'S BRIDGE
 
 Lieutenant Commander Cassandra, Cassie, Hayle (30) is sat in the captain's chair, gripping the sides as her ship is thrown around.
 
 We join during a battle for which our hero's ship is obviously outmatched.
 
-CASSIE
-(Shouting over the small explosions that rock the bridge) 
+Small explosions rock the bridge.
+
+CASSIE 
 Reroute power from main engines, boost power to the shields.
 
 EXT. SPACE
@@ -29,13 +31,17 @@ Get it done, Lieutenant.
 ENGINEERING CREW MEMBER
 Aye, Captain. If I can just reroute the...
 
+
 Around them control panels explode and crew are thrown back, visibly wounded
+
 
 CASSIE
 Damnit.
 
-She rushes over and pushes the engineering crew member out of the way, vigerously jabbing at the control surface.
-It stubbernly refuses to cooperate. A red message, "JAMMED", flashes on the screen.
+
+She rushes over and pushes the engineering crew member out of the way, vigorously jabbing at the control surface.
+It stubbornly refuses to cooperate. A red message, "JAMMED", flashes on the screen.
+
 
 CASSIE
 What's wrong with this thing?!
@@ -44,7 +50,7 @@ EXT. SPACE
 
 The mystery assailant fires a volley of phasers at our hero's ship, the shields flicker and then falter.
 
-From the enemy ship an energy build up sound can be heard and then two bright flashes of light as photon torpedos are fired.
+From the enemy ship an energy build up sound can be heard and then two bright flashes of light as photon torpedoes are fired.
 
 They streak over to Cassie's ship and, with no shields, it's a sure kill.  They rip through the hull and explode.
 
@@ -54,10 +60,12 @@ We watch as Cassie, still standing at the engineering console, is surround in ex
 Which fades to reveal Cassie still standing in the same position, the recognisable lines of a holodeck in the background.
 
 JESSICA HAYLE (O.S)
-That's the third time you've failed the scenerio, Cassie.
+That's the third time you've failed the scenario, Cassie.
 
-Cassie turns and we see a woman dressed in a Star Fleet uniform, Jessica Hayle (50).
+
+Cassie turns and we see a woman dressed in a Starfleet uniform, Jessica Hayle (50).
 Although, curiously, it is an older style uniform with no rank identifiers.
+
 
 JESSICA
 (cont)
@@ -67,7 +75,9 @@ CASSIE
 (angry)
 I don't understand what this is meant to teach me.  If I can't reroute the power then we lose the shields and then the ship.
 
+
 Jessica smiles, seeing something Cassie obviously doesn't.
+
 
 JESSICA
 What was your training at the Academy, Cas.
@@ -81,14 +91,18 @@ You just said "If _I_ can't reroute the power".  Do you have any training on pow
 CASSIE
 Not exactly...
 
+
 Suddenly the penny drops.  Cassie nods.
+
 
 CASSIE
 (cont)
 I think I understand.  Each time I rush to help the engineer.  He's trained in power distribution systems, I'm not.  
 I should stay in command and trust that my crew can do their jobs.
 
+
 Jessica smiles widely and puts her hand on Cassie's shoulder
+
 
 JESSICA
 A good captain knows that they can't do everything... be everywhere.  There are some things you have to just trust that your crew can do.
@@ -96,12 +110,16 @@ A good captain knows that they can't do everything... be everywhere.  There are 
 CASSIE
 Thanks, mom.
 
+
 They briefly hug.
 
+
 ADMIRAL JACK POPE (O.S)
-Admiral Pope to Lieutant Commander Hayle
+Admiral Pope to Lieutenant Commander Hayle
+
 
 Cassie taps her communicator
+
 
 CASSIE
 Go ahead, Admiral.
@@ -112,7 +130,9 @@ Report to my office, Cassie.
 CASSIE
 Acknowledged.
 
+
 Cassie turns to her mother.
+
 
 CASSIE
 See you later, mom.
@@ -120,18 +140,21 @@ See you later, mom.
 JESSICA
 I hope it won't be too long, I get so bored.
 
+
 They both quickly embrace again and Cassie walks away, towards and past the camera.
-We stay looking at Jessia as we hear the sound of doors opening and closing.
+We stay looking at Jessica as we hear the sound of doors opening and closing.
+
 
 CASSIE (O.S)
 Computer, end program.
 
+
 The lights fade on the holodeck as the program shuts down.  Jessica waves slightly before she, too, flickers like the hologram she is, and fades away.
 
-EXT. STAR FLEET ACADEMY - DAY
 
-Short establishing shot of a very busy, bright and prosperous Star Fleet Academy.
+EXT. STARFLEET ACADEMY - DAY
+
+Short establishing shot of a very busy, bright and prosperous Starfleet Academy.
 
 INT. ADMIRAL POPE'S OFFICE
-
 
