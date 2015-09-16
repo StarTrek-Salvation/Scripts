@@ -379,7 +379,7 @@ Cassie turns to Sa'ar.
 CASSIE
 Show me my bridge please, Commander.  Everyone else - dismissed.
 
-INT. USS SALVATION BRIDGE
+INT. SALVATION'S BRIDGE
 
 The "whoosh" of a turbo-lift door opening reveals Cassie and Sa'ar.
 
@@ -452,7 +452,7 @@ Sa'ar laughed
 SA'AR
 Yes, Captain.
 
-INT. SALVATION'S BRIDGE
+INT. BRIDGE
 
 Cassie is seated in the command chair, feeling the arms of the chair, shifting to get comfortable.
 
@@ -492,6 +492,47 @@ EXT. DEEP SPACE
 
 The USS Salvation comes out of warp and we get a view of it in all its glory.  It's not a sleek ship, but it's beautiful in its own way.  The signature of Star Fleet ships, the long thin nacelles jutting out of the back, are still there - only this time there's three of them.  The third is central and below the other two.
 
-INT. USS SALVATION BRIDGE
+INT. BRIDGE
+
+RAMIREZ
+We've arrived at the test co-ordinates, ma'am.
+
+CASSIE
+Good.
+  
+Captain Hayle to all hands.  This is the moment you've worked towards for the past few months.  We are about to fire up the Reese-Montgomery drive.  We don't know what it will feel like, so I suggest you hold on to something solid.  See you on the other side.
+  
+Hayle to Reese.  This would be a bad time to tell me we can't proceed because you've left something important back on Earth.
+
+INT. ENGINEERING ROOM
+
+REESE
+Does clean underwear count, Captain.
+
+CASSIE
+(over comms)
+No, Chief, it does not count.
+
+REESE
+In that case, we're ready.
+
+CASSIE
+(over comms)
+Then go at your leisure, Commander.  We're all waiting.
+
+REESE
+Aye, Captain!
+
+Reese taps his badge to close the call and turns to his staff.  They're scurrying around checking everything they can think of.  Reese decides he needs to check some things himself.  He peers at some chips and taps his PADD.  Finally satisfied he moves to the main engineering console.
+
+REESE (CONT'D)
+Get ready for initiation.  We're going in 3... 2... 1... Go!
+
+He taps his console.
+
+EXT. DEEP SPACE
+
+
+
 
 
