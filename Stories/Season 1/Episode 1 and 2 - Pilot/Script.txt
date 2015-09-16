@@ -9,7 +9,7 @@ Lieutenant Commander Cassandra, Cassie, Hayle (30) is sat in the captain's chair
 
 We join during a battle for which our hero's ship is obviously outmatched.
 
-Small explosions rock the bridge.
+Explosions rock the bridge.
 
 CASSIE 
 Reroute power from main engines, boost power to the shields.
@@ -23,7 +23,7 @@ INT. SHIP'S BRIDGE
 The bridge is rocked by blasts from the mystery assailant
 
 ENGINEERING CREW MEMBER
-I'm trying, Captain, but I can't get the matrix to respond.  It's jammed.  
+I'm trying, Captain, but I can't get the matrix to respond - it's jammed.  
 
 CASSIE
 Get it done, Lieutenant.
@@ -40,6 +40,7 @@ Damnit.
 
 
 She rushes over and pushes the engineering crew member out of the way, vigorously jabbing at the control surface.
+
 It stubbornly refuses to cooperate. A red message, "JAMMED", flashes on the screen.
 
 
@@ -52,7 +53,7 @@ The mystery assailant fires a volley of phasers at our hero's ship, the shields 
 
 From the enemy ship an energy build up sound can be heard and then two bright flashes of light as photon torpedoes are fired.
 
-They streak over to Cassie's ship and, with no shields, it's a sure kill.  They rip through the hull and explode.
+They streak over to Cassie's ship and, with no shields, it's a sure kill.  They rip through the hull and the ship starts to explode.
 
 INT. SHIP'S BRIDGE
 
@@ -63,8 +64,7 @@ JESSICA HAYLE (O.S)
 That's the third time you've failed the scenario, Cassie.
 
 
-Cassie turns and we see a woman dressed in a Starfleet uniform, Jessica Hayle (50).
-Although, curiously, it is an older style uniform with no rank identifiers.
+Cassie turns and we see a woman dressed in a Starfleet uniform, Jessica Hayle (50) - although, curiously, it is an older style uniform with no rank identifiers.
 
 
 JESSICA
@@ -83,10 +83,10 @@ JESSICA
 What was your training at the Academy, Cas.
 
 CASSIE
-You know that, Transwarp theory. What's that got to do with anything?
+You know that.  Transwarp theory.  What's that got to do with anything?
 
 JESSICA
-You just said "If _I_ can't reroute the power".  Do you have any training on power distribution systems?
+You just said "If *I* can't reroute the power".  Do you have any training on power distribution systems?
 
 CASSIE
 Not exactly...
@@ -97,7 +97,8 @@ Suddenly the penny drops.  Cassie nods.
 
 CASSIE
 (cont)
-I think I understand.  Each time I rush to help the engineer.  He's trained in power distribution systems, I'm not.  
+I think I understand.  Each time I rush to help the engineer.  But he's trained in power distribution systems, I'm not.  
+  
 I should stay in command and trust that my crew can do their jobs.
 
 
@@ -149,7 +150,7 @@ CASSIE (O.S)
 Computer, end program.
 
 
-The lights fade on the holodeck as the program shuts down.  Jessica waves slightly before she, too, flickers like the hologram she is, and fades away.
+The lights dim on the holodeck as the program shuts down.  Jessica waves slightly before she, too, flickers like the hologram she is, and fades away.
 
 
 EXT. STARFLEET ACADEMY - DAY
