@@ -36,7 +36,7 @@ Around them control panels explode and crew are thrown back, visibly wounded
 
 
 CASSIE
-Damnit.
+Dammit.
 
 
 She rushes over and pushes the engineering crew member out of the way, vigorously jabbing at the control surface.
@@ -44,7 +44,7 @@ She rushes over and pushes the engineering crew member out of the way, vigorousl
 It stubbornly refuses to cooperate. A red message, "JAMMED", flashes on the screen.
 
 
-CASSIE
+CASSIE (CONT'D)
 What's wrong with this thing?!
 
 EXT. SPACE
@@ -178,7 +178,7 @@ And that's management speak for...?
 POPE
 Look, Cassie.  This is an experimental drive - the Reese-Montgomery propulsion system has never been tested on a real ship.
   
-All simulations have been sucessful, the device has been powered and charged without incident... 
+All simulations have been successful, the device has been powered and charged without incident... 
 But - a maiden voyage is never without risk.
 
 CASSIE
@@ -201,7 +201,7 @@ CASSIE
 But, Captain Montgomery...
  
 POPE
-Captain Montgomery cannot go, Cassie.  For all our medical advances there's one thing we can't stop, old age.  His mind is sharp, but his body is not up to the rigors of a shakedown cruise.
+Captain Montgomery cannot go, Cassie.  For all our medical advances there's one thing we can't stop, old age.  His mind is sharp, but his body is not up to the rigours of a shakedown cruise.
  
 CASSIE
 Why me? I've never captained a real ship before.
@@ -225,7 +225,7 @@ From there you will engage the Reese-Montgomery drive and take her as far as you
 
 Pope smiles at an obviously shocked Cassie
 
-POPE
+POPE (CONT'D)
 (cont)
 I know it's a lot to take in, but the maiden voyage is scheduled for tomorrow afternoon, San Francisco time, and we need you there.
  
@@ -281,7 +281,7 @@ You seem to know a lot about it for a pilot.
 
 REESE
 (without responding to the implied question)
-The Dominion were pumelling us with energy weapons that ripped through our shields, we realised that the only ships that survived were ones with ablative armour, like the USS Defiant.
+The Dominion were pummeling us with energy weapons that ripped through our shields, we realised that the only ships that survived were ones with ablative armour, like the USS Defiant.
   
 CASSIE
 (A little more interested)
@@ -333,11 +333,11 @@ Reese smiles and follows Cassie through the doorway.
 Cassie looks confused and is about to say something before she's interrupted by Commander Sa'ar (Klingon, Female)
 
 SA'AR
-Welcome Captain.  I am Commander Sa'ar of the house of Odas, your first officer.
+Welcome Captain.  I am Commander Sa'ar of the house Odas, your first officer.
   
 Let me introduce the rest of your senior staff.
   
-First Lieutenant XXXX, Science officier
+First Lieutenant XXXX, Science officer
 Lieutenant Commander XXXX, Chief of security
 Doctor XXXX, Medical
 Ensign XXXX, Ops
@@ -355,15 +355,14 @@ Reese steps around Cassie and stands next to Sa'ar, a big smile on his face.
 REESE
 Chief Engineer, Lieutenant Commander Christopher James Reese.
 
-Reese offered a smart salut with just the slightest hint of mockery.
+Reese offers a smart salute with just the slightest hint of mockery.
 
-REESE
-(cont)
+REESE (CONT'D)
 Reporting for duty, *Captain*.
 
 Cassie looks annoyed at being taken for a fool but after a moment, sees the joke.
 
-A small, almost imperceptable, smile crosses her face before her composure is back.
+A small, almost imperceptible, smile crosses her face before her composure is back.
 
 CASSIE
 I'll speak to you later, Lieutenant.
@@ -378,9 +377,117 @@ Yes, sir.
 Cassie turns to Sa'ar.
 
 CASSIE
-Show me my bridge please, Commander.  Everyone else... carry on.
+Show me my bridge please, Commander.  Everyone else - dismissed.
 
 INT. USS SALVATION BRIDGE
 
 The "whoosh" of a turbo-lift door opening reveals Cassie and Sa'ar.
 
+SA'AR
+Captain on board.
+
+The bridge crew turn to salute their new captain.
+
+CASSIE
+I'm not here to replace Captain Montgomery, I'm here to see that his ship, your ship, fulfils his dreams and ambitions.  I hope you can help me in that task.  I need every one of you to perform your duties as best as you can and I will see you there and back again.  Thank you and carry on.
+
+The crew turns back to work at their stations as Sa'ar leads Cassie to the ready room.
+
+INT. CAPTAIN'S READY ROOM
+
+CASSIE
+Sit down, Commander.
+
+Sa'ar does so.
+
+CASSIE (CONT'D)
+Tell me about my ship... my crew.
+
+SA'AR
+It's an old ship, Captain, but solid.  I've never seen such an armoured hulk before I came here.  Even Klingon ships aren't this well defended.
+
+Sa'ar smiles, her teeth jagged and discoloured, but there was no malice in the smile, just an honest sense of pride at her ship. 
+
+Cassie nods.
+
+CASSIE
+And my crew?
+
+Sa'ar looked pensive.
+
+SA'AR
+Nervous but excited for what's to come.  They were shocked to hear the change of command but understand the need.
+
+CASSIE
+That's very perceptive for...
+
+Sa'ar's smile was back.
+
+SA'AR
+A Klingon?  You might say so.  I've lived among humans since I joined the academy.  With command comes the need to understand those under you and it's something I've ... challenged myself with improving.
+
+CASSIE
+Very commendable.  And what about you, Commander?  You've been with this ship for months.  You're a full rank Commander, I'm only a Lieutenant Commander.  How do you feel about my command?
+
+SA'AR
+On this ship you're Captain.  I don't know why Starfleet chose you and I don't need to know.  They're my superior officers and their judgement is final.
+
+CASSIE
+That's all you have to say?
+
+SA'AR
+It is.
+
+CASSIE
+Okay.  Thank you, Commander.  Please make ready to leave port, I intend to depart within the hour.
+
+SA'AR
+Aye, Captain.
+
+CASSIE
+And, Commander, please tell Lieutenant Commander Reese I wish to see him, right away.  We have unfinished business, I feel.
+
+Sa'ar laughed
+
+SA'AR
+Yes, Captain.
+
+INT. SALVATION'S BRIDGE
+
+Cassie is seated in the command chair, feeling the arms of the chair, shifting to get comfortable.
+
+CASSIE
+Navigation?
+
+MR RAMIREZ
+Ready, Captain.
+
+CASSIE
+Engineering?
+
+REESE
+(over comms)
+Ready, sir.
+
+CASSIE
+Prepare to take us out, Mr ...?
+
+MR RAMIREZ
+Ramirez, Captain.  And aye aye.
+
+CASSIE
+Carefully, if you please, Mr Ramirez.  We don't want to chip the paint, it's such a dashing colour of dark grey.
+
+MR RAMIREZ
+No, ma'am.  I'll be careful.  Although I think if I nudged the docking station we'd do more damage to it than us.
+
+CASSIE
+Mr Ramirez... Engage.
+
+EXT. SPACE - EARTH
+
+We are treated to the view of the USS Salvation as she moves away from Earth.  It dwarfs the tiny space station next to it.  After a couple of seconds we hear the unmistakable sound of a warp drive starting its build up.  It lasts much longer than we are used to before ... *whoosh*
+
+EXT. DEEP SPACE
+
+The USS Salvation comes out of warp and we get a view of it in all its glory.  It's not a sleek ship, but it's beautiful in its own way.
