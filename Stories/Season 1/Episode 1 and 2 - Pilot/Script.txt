@@ -459,7 +459,7 @@ Cassie is seated in the command chair, feeling the arms of the chair, shifting t
 CASSIE
 Navigation?
 
-MR RAMIREZ
+RAMIREZ
 Ready, Captain.
 
 CASSIE
@@ -472,22 +472,26 @@ Ready, sir.
 CASSIE
 Prepare to take us out, Mr ...?
 
-MR RAMIREZ
+RAMIREZ
 Ramirez, Captain.  And aye aye.
 
 CASSIE
 Carefully, if you please, Mr Ramirez.  We don't want to chip the paint, it's such a dashing colour of dark grey.
 
-MR RAMIREZ
+RAMIREZ
 No, ma'am.  I'll be careful.  Although I think if I nudged the docking station we'd do more damage to it than us.
 
 CASSIE
-Mr Ramirez... Engage.
+Indeed.  Mr Ramirez... Engage.
 
-EXT. SPACE - EARTH
+EXT. SPACE - EARTH ORBIT
 
-We are treated to the view of the USS Salvation as she moves away from Earth.  It dwarfs the tiny space station next to it.  After a couple of seconds we hear the unmistakable sound of a warp drive starting its build up.  It lasts much longer than we are used to before ... *whoosh*
+We are treated to the view of the USS Salvation as she moves away from Earth.  It dwarfs the tiny space station next to it.  After a couple of seconds we hear the unmistakable sound of a warp drive starting its build up.  It lasts a beat longer than we are used to, before ... *whoosh*
 
 EXT. DEEP SPACE
 
-The USS Salvation comes out of warp and we get a view of it in all its glory.  It's not a sleek ship, but it's beautiful in its own way.
+The USS Salvation comes out of warp and we get a view of it in all its glory.  It's not a sleek ship, but it's beautiful in its own way.  The signature of Star Fleet ships, the long thin nacelles jutting out of the back, are still there - only this time there's three of them.  The third is central and below the other two.
+
+INT. USS SALVATION BRIDGE
+
+
