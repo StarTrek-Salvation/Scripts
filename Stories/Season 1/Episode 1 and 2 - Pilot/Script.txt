@@ -210,8 +210,7 @@ You have.
 
 Cassie tries to speak but the Admiral raises his hand.
 
-POPE
-(cont)
+POPE (CONT'D)
 I know that was only back to Earth after your captain fell ill, but you've still been in command of a star ship.
   
 Montgomery is unable to captain the Salvation and so you're the only choice we have.
@@ -225,7 +224,6 @@ From there you will engage the Reese-Montgomery drive and take her as far as you
 Pope smiles at an obviously shocked Cassie
 
 POPE (CONT'D)
-(cont)
 I know it's a lot to take in, but the maiden voyage is scheduled for tomorrow afternoon, San Francisco time, and we need you there.
 
 CASSIE
@@ -233,7 +231,7 @@ One request, sir.
 
 Pope inclines his head
 
-CASSIE
+CASSIE (CONT'D)
 I have a private holodeck program... A training course of sorts.  I would like that to be uploaded to the Salvation's main memory banks.
 
 POPE
@@ -336,7 +334,7 @@ Welcome Captain.  I am Commander Sa'ar of the house Odas, your first officer.
   
 Let me introduce the rest of your senior staff.
   
-First Lieutenant  (Bajoran, Female, 30), Science officer
+First Lieutenant Simaal Ka (Bajoran, Female, 30), Science officer
 Lieutenant Commander Jaeger Fox (Male, Human, German, 40), Chief of security
 Doctor Niarin Praan, (Female, Trill, 30) Medical
 Ensign Carlos Ramirez (Male, Human, Hispanic, 25), Navigation
@@ -710,7 +708,7 @@ Cassie nods.  The view screen is replaced with the inside of the Federation ship
 
 CAPTAIN HAMILTON
 (through explosions)
-This is Captain Hamilton of the USS Cortana.  We have a Lancer chasing us.  Our armour is failing.  Request assistance.
+This is Captain Hamilton of the USS Cortana.  We have a Harpy chasing us.  Our armour is failing.  Request assistance.
 
 CASSIE
 We have no engines, Captain.  Bring her close to us and we will see what we can do.
@@ -721,7 +719,7 @@ Acknowledged.
 Hamilton glances off screen and back
 
 CAPTAIN HAMILTON (CONT'D)
-ETA 3 minutes and 20 seconds.
+ETA 43 minutes and 20 seconds.  Hamilton, out.
 
 The view screen closes and we are back to a view of the battling ships.
 
@@ -729,8 +727,99 @@ CASSIE
 Thoughts?
 
 SIMAAL KA
-I've scanned both ships.  The Cortana is definitely a Federation ship but our records show she is commanded by Captain Reynolds.  The other... we do no have its imprint on the data core.  It appears to use an energy weapon that's similar to a Romulan disruptor but more destructive.  It's ripping through the Cortana's shields like they weren't there.
-
+I've scanned both ships.  The Cortana is definitely a Federation ship but our records show she is commanded by Captain Reynolds.  The other... we do no have its imprint on the data core.  It appears to use an energy weapon that's similar to a Romulan disruptor but much more destructive.  It's ripping through the Cortana's shields like they weren't there.
 
 JAEGER FOX
-Confirmed.  The Cortana's weapons are doing some damage to the other ship but it's clearly out-gunned.
+Confirmed.  The Cortana's weapons are doing some damage to the other ship but it's clearly out-gunned.  She'll barely make it here in time.
+
+CASSIE
+What are our options?
+
+JAEGER FOX
+We're a test vessel.  We have no photon or quantum torpedoes.  We have phasers but they were damaged in the core explosion, it will take hours to fix them.
+
+SIMAAL KA
+I have an idea.  But getting it done on time is going to be close.
+
+EXT. SPACE
+
+The Salvation floats in deep space.  Crew are in space-suits outside working on the shuttle-craft launch tubes. 
+We see the flares of welding torches as they work.
+
+INT. BRIDGE
+
+CASSIE
+Are you sure this will work, Lieutenant?
+
+KA
+I've run simulations on the holodeck while the crew has working.  If we cannibalised enough of the remaining drive in time then it will work.  The mass ratios are right.
+
+CASSIE
+Open a channel to the Cortana.
+
+The view screen displays the Cortana's bridge.  It looks worse than last time - cabling and ducts hanging from everywhere.  Smoke fills the screen.
+
+CASSIE (CONT'D)
+Captain Hamilton, we have a plan.  You need to come around to 210 point 30.  Run across our flank on that side.  Keep going straight and steady.
+
+HAMILTON
+I hope this works, Captain.  We're almost done in here.  I've lost most of my crew and my phasers are about to give out.
+
+CASSIE
+Just stay on that course and we will help as best as we can.
+
+HAMILTON
+Acknowledged, Hamilton out.
+
+RAMIREZ
+They're coming into range now, sir.  Heading straight for us.
+
+CASSIE
+Lieutenant Ka, are you ready?
+
+KA
+Yes, ma'am.  Just give the order.
+
+CASSIE
+Mr Ramirez, tell me when they're about to pass our bow.
+
+RAMIREZ
+Aye, sir.
+(pause)
+4... 3... 2... Now, Captain.
+
+CASSIE
+Fire!
+
+EXT. SPACE
+
+Cortana and the enemy ship are passing the side of the Salvation where previously we saw the work progressing earlier.  As the Cortana passes we hear a build up of energy and then an explosion.  Disjointed pieces of metal, equipment and unrecognisable parts fire out of the shuttlecraft launch tubes and race towards the enemy ship.
+
+They impact the ship and, without shields, rip through the hull and continue out the other side.  The impact knocks the enemy ship and causes it to go barrelling towards the black-hole.  It spirals around and around until...
+
+INT. SALVATION BRIDGE
+
+KA
+It worked!  The enemy ship is heading towards the event horizon. It's under going tidal stresses from the black-hole.
+
+CASSIE
+Great work, Lieutenant.
+
+We watch on the view screen as the enemy ship turns end over end until it explodes into pieces, fire streaking away before being pulled back into the black hole.
+
+CASSIE (CONT'D)
+Hail the Cortana.
+
+Captain Hamilton appears on the view screen.
+
+HAMILTON
+Well done, Captain, but I'm afraid that last shot hit our structural integrity field generators.  We have less than 1 minute of reserve power before my ship rips itself apart from inside.   You need to transport my crew off the ship.
+
+CASSIE
+Understood.  Get everyone ready for transport.
+
+The view screen closes and Cassie turns to ops.
+
+CASSIE (CONT'D)
+Get everyone off there and into the cargo bay.
+
