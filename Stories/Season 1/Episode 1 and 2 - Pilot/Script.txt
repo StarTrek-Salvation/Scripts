@@ -336,7 +336,7 @@ Welcome Captain.  I am Commander Sa'ar of the house Odas, your first officer.
   
 Let me introduce the rest of your senior staff.
   
-First Lieutenant Simaal Ka (Bajoran, Female, 30), Science officer
+First Lieutenant  (Bajoran, Female, 30), Science officer
 Lieutenant Commander Jaeger Fox (Male, Human, German, 40), Chief of security
 Doctor Niarin Praan, (Female, Trill, 30) Medical
 Ensign Carlos Ramirez (Male, Human, Hispanic, 25), Navigation
@@ -674,3 +674,63 @@ No.  And with the drive destroyed we can't recover the data.  The best we can ho
 Cassie nods and turns to the crew.
 
 CASSIE
+There was always a risk this wouldn't work.  Right now we don't know how successful the drive was in moving us through the galaxy and our star charts don't instantly recognise what's around us.  Once we know where we are we can...
+
+BRIDGE CREW MEMBER
+(over comms)
+Captain to the bridge.  Ships entering the system.
+
+INT. BRIDGE
+
+The senior crew come through the door from the briefing room and take their stations.
+
+CASSIE
+Report.
+
+BRIDGE CREW MEMBER
+Sensors have detected two ships entering the system, Captain.  One is a Federation ship, it looks like a heavily modified Phoenix class.  The other is of unknown origin.
+
+CASSIE
+Show me.
+
+The display screen shows two small blobs streaking across the star field, bright lights flash between them.
+
+CASSIE (CONT'D)
+Magnify.
+
+The display screen changes and refocuses on a closer up view.  We can now see the two ships clearly.   The first is an angular ship, all sharp corners and planes.  The other is, indeed, a modified Phoenix class Federation ship.  It has been modified to try to retrofit some sort armour to the hull, but not too successfully.  As the first ship fires it damages the armour, chunks flying off after each volley.  As a volley hits a part of the ship without armour the blast rips through and out the other side, leaving clean holes through the ship.
+
+RAMIREZ
+Oh my...
+
+SA'AR
+The Federation ship is hailing us.
+
+Cassie nods.  The view screen is replaced with the inside of the Federation ship which has obviously seen better days.  In the centre of the bridge is Captain Hamilton (Male, Human, 50).
+
+CAPTAIN HAMILTON
+(through explosions)
+This is Captain Hamilton of the USS Cortana.  We have a Lancer chasing us.  Our armour is failing.  Request assistance.
+
+CASSIE
+We have no engines, Captain.  Bring her close to us and we will see what we can do.
+
+CAPTAIN HAMILTON
+Acknowledged.
+
+Hamilton glances off screen and back
+
+CAPTAIN HAMILTON (CONT'D)
+ETA 3 minutes and 20 seconds.
+
+The view screen closes and we are back to a view of the battling ships.
+
+CASSIE
+Thoughts?
+
+SIMAAL KA
+I've scanned both ships.  The Cortana is definitely a Federation ship but our records show she is commanded by Captain Reynolds.  The other... we do no have its imprint on the data core.  It appears to use an energy weapon that's similar to a Romulan disruptor but more destructive.  It's ripping through the Cortana's shields like they weren't there.
+
+
+JAEGER FOX
+Confirmed.  The Cortana's weapons are doing some damage to the other ship but it's clearly out-gunned.

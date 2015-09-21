@@ -1,3 +1,1 @@
-This work is free to be copied and distributed for non-commerical uses.
-
-Commerical use is strictly prohibited without the express permission of all the contributors.
+This work is free to be read but cannot be distributed without the express permission of all the contributors.
