@@ -2,6 +2,8 @@ Title:
 	Star Trek - Salvation
 	S01E01-02 - "Pilot"
 
+>** TEASER **   <
+
 INT. SHIP'S BRIDGE
 
 Lieutenant Commander Cassandra, Cassie, Hayle (30) is sat in the captain's chair, gripping the sides as her ship is thrown around.
@@ -30,18 +32,14 @@ Get it done, Lieutenant.
 ENGINEERING CREW MEMBER
 Aye, Captain. If I can just reroute the...
 
-
 Around them control panels explode and crew are thrown back, visibly wounded
-
 
 CASSIE
 Dammit.
 
-
 She rushes over and pushes the engineering crew member out of the way, vigorously jabbing at the control surface.
 
 It stubbornly refuses to cooperate. A red message, "JAMMED", flashes on the screen.
-
 
 CASSIE (CONT'D)
 What's wrong with this thing?!
@@ -63,9 +61,7 @@ Which fades to reveal Cassie still standing in the same position, the recognisab
 JESSICA HAYLE (O.S)
 That's the third time you've failed the scenario, Cassie.
 
-
 Cassie turns and we see a woman dressed in a Starfleet uniform, Jessica Hayle (50) - although, curiously, it is an older style uniform with no rank identifiers.
-
 
 JESSICA
 (cont)
@@ -75,9 +71,7 @@ CASSIE
 (angry)
 I don't understand what this is meant to teach me.  If I can't reroute the power then we lose the shields and then the ship.
 
-
 Jessica smiles, seeing something Cassie obviously doesn't.
-
 
 JESSICA
 What was your training at the Academy, Cas.
@@ -91,18 +85,14 @@ You just said "If *I* can't reroute the power".  Do you have any training on pow
 CASSIE
 Not exactly...
 
-
 Suddenly the penny drops.  Cassie nods.
 
-
-CASSIE
+CASSIE (CONT'D)
 I think I understand.  Each time I rush to help the engineer.  But he's trained in power distribution systems, I'm not.  
   
 I should stay in command and trust that my crew can do their jobs.
 
-
 Jessica smiles widely and puts her hand on Cassie's shoulder
-
 
 JESSICA
 A good captain knows that they can't do everything... be everywhere.  There are some things you have to just trust that your crew can do.
@@ -110,17 +100,13 @@ A good captain knows that they can't do everything... be everywhere.  There are 
 CASSIE
 Thanks, mom.
 
-
 They briefly hug.
-
 
 ADMIRAL JACK POPE (O.S)
 (Over communicator badge)
 Admiral Pope to Lieutenant Commander Hayle
 
-
 Cassie taps her communicator
-
 
 CASSIE
 Go ahead, Admiral.
@@ -131,28 +117,22 @@ Report to my office, Cassandra.
 CASSIE
 Acknowledged.
 
-
 Cassie turns to her mother.
 
-
-CASSIE
+CASSIE (CONT'D)
 See you later, mom.
 
 JESSICA
 I hope it won't be too long, I get so bored.
 
-
 They both quickly embrace again and Cassie walks away, towards and past the camera.
 
 We stay looking at Jessica as we hear the sound of doors opening and closing.
 
-
 CASSIE (O.S)
 Computer, end program.
 
-
 The lights dim on the holodeck as the program shuts down.  Jessica waves slightly before she, too, flickers like the hologram she is, and fades away.
-
 
 EXT. STARFLEET ACADEMY - DAY
 
@@ -194,13 +174,13 @@ Everyone can't stop talking about how the brave Captain Montgomery's taking the 
 You obviously want me to join the crew. 
 
 POPE
-I don't want you to join it, Cas. I want you to captain the Salvation.
+I don't want you to join the Salvation's crew, Cassie. I want you to captain it.
 
 CASSIE
 But, Captain Montgomery...
 
 POPE
-Captain Montgomery cannot go, Cassie.  For all our medical advances there's one thing we can't stop, old age.  His mind is sharp, but his body is not up to the rigours of a shakedown cruise.
+Captain Montgomery cannot go, Cassie.  For all our medical advances there's one thing we can't stop, old age.  His mind is sharp, but his body is not up to the rigours of this shakedown cruise.
 
 CASSIE
 Why me? I've never captained a real ship before.
@@ -211,19 +191,27 @@ You have.
 Cassie tries to speak but the Admiral raises his hand.
 
 POPE (CONT'D)
-I know that was only back to Earth after your captain fell ill, but you've still been in command of a star ship.
+I know that was only a two week mission back to Earth after your captain fell ill, but you've still been in command of a star ship.
   
 Montgomery is unable to captain the Salvation and so you're the only choice we have.
   
-You were top in your class on Transwarp drives and the only available command officer we have that's not assigned to a ship.
+You were top in your class on Transwarp drives...
+
+CASSIE
+The drive is a temporal-warp drive, not Transwarp.  Transwarp uses tunnels through conduits in subspace, temporal-warp works like a traditional warp drive, only it compresses time as well as space.
+
+POPE
+You've been following the research for years, I.know how excited you are by the promise of speeds exceeding warp 10.  As we all are.  Look,  you're the only available command officer we have that's not already assigned to a ship.  This isn't a request, Cassie, Star Fleet needs you to do this.
+
+Cassie sits back in acceptance.
+
+POPE (CONT'D)
+Good.
   
 You will take the Salvation and pilot her outside the solar system.
   
-From there you will engage the Reese-Montgomery drive and take her as far as you can.  Then ... turn around and come back.
-
-Pope smiles at an obviously shocked Cassie
-
-POPE (CONT'D)
+From there you will engage the Reese-Montgomery drive and take her as far as you can.  Then ... turn around and come back.  Simple.
+  
 I know it's a lot to take in, but the maiden voyage is scheduled for tomorrow afternoon, San Francisco time, and we need you there.
 
 CASSIE
@@ -235,17 +223,21 @@ CASSIE (CONT'D)
 I have a private holodeck program... A training course of sorts.  I would like that to be uploaded to the Salvation's main memory banks.
 
 POPE
-Consider it done.  Good luck, Captain Hayle.
+Consider it done.  Good luck, *Captain* Hayle.
 
-CROSS FADE TO:
+>** END OF TEASER **<
+
+===
+
+>** ACT ONE **<
 
 EXT. SPACE
 
 A shuttlecraft floats through space, through the window we see Cassie and a man.
  
-The man, Lt Cdr Christopher Reese (35, English), is piloting.
+The man, Lieutenant Commander Christopher Reese (35, Human, English), is piloting.
 
-As the shuttlecraft moves we see the glimpse of a larger, very impressive, ship behind it.
+As the shuttlecraft moves we see the teasing glimpse of a larger, very impressive, ship behind it.
 
 INT. SHUTTLECRAFT
 
@@ -289,7 +281,7 @@ No, so work started on this beauty.  A large behemoth of a ship - little more th
   
 On the inside it was almost totally hollow, but with launch tubes for shuttle-sized fighters, and larger, delta flyer class ships - all to be equipped with ablative armour.
 
-Reese started doing hand motions with both hands, imitating fighters.  Obviously excited by his re-telling.
+Reese starts doing hand motions with both hands, imitating fighters.  Obviously excited by his re-telling.
 
 REESE (CONT'D)
 They could come screaming out of the Salvation to attack The Dominion, doing as much damage as they could.
@@ -307,7 +299,18 @@ Yes, and so the ship was mothballed, almost totally complete but totally useless
 Captain Montgomery found it in some ship-yard around Alpha Centauri, towed it back here and installed the drive...
   
 It needs all that space, the drive.  It's just a prototype, you see.
-  
+
+CASSIE
+The temporal-warp drive?
+
+Reese nods
+
+REESE
+A normal warp drive creates a subspace bubble that allows the ship to compress space at the front and expand it at the rear, pushing the ship forward faster than light.  But there's a problem, the more you compress space the more it pushes back, a quantum mechanical effect that you just can't solve.  The Reese-Montgomery drive gets around this problem by compressing time as well as space.  Easy, see?
+
+Cassie does not see but nods her head anyway.
+
+REESE (CONT'D)  
 We're coming to the docking port now, prepare for departure, Captain.
 
 CASSIE
@@ -327,7 +330,7 @@ Thank you, pilot.  You're dismissed.
 
 Reese smiles and follows Cassie through the doorway.
 
-Cassie looks confused and is about to say something before she's interrupted by Commander Sa'ar (Klingon, Female)
+Cassie looks confused and is about to say something at the breach of protocol before she's interrupted by Commander Sa'ar (Klingon, Female)
 
 SA'AR
 Welcome Captain.  I am Commander Sa'ar of the house Odas, your first officer.
@@ -355,9 +358,7 @@ Reese stands to attention with just the slightest hint of mockery.
 REESE (CONT'D)
 Reporting for duty, *Captain*.
 
-Cassie looks annoyed at being taken for a fool but after a moment, sees the joke.
-
-A small, almost imperceptible, smile crosses her face before her composure is back.
+Cassie looks annoyed at being taken for a fool but a small, almost imperceptible, smile crosses her face before her composure is back.
 
 CASSIE
 I'll speak to you later, Lieutenant.
@@ -446,6 +447,12 @@ Sa'ar laughed
 
 SA'AR
 Yes, Captain.
+
+>** END OF ACT ONE **<
+
+===
+
+>** ACT TWO **<
 
 INT. BRIDGE
 
@@ -625,7 +632,13 @@ More pops and the sound of thrusters as it is pushed out of the back of the ship
 
 It is a round, spherical looking device, white and blue energy crackles over its surface.  Occasionally the black-hole in the background pulses red and the device sympathetically pulses red energy, sparking out.
 
-It moves away from the ship, the further it moves the more the red energy starts to overcome the blue and white until it's a ball of red flickering light.... at which point it explodes.  
+It moves away from the ship, the further it moves the more the red energy starts to overcome the blue and white until it's a ball of red flickering light.... at which point it explodes and WHITE OUT.  
+
+>** END OF ACT TWO **<
+
+===
+
+>** ACT THREE **<
 
 INT. BRIDGE
 
@@ -696,7 +709,7 @@ The display screen shows two small blobs streaking across the star field, bright
 CASSIE (CONT'D)
 Magnify.
 
-The display screen changes and refocuses on a closer up view.  We can now see the two ships clearly.   The first is an angular ship, all sharp corners and planes.  The other is, indeed, a modified Phoenix class Federation ship.  It has been modified to try to retrofit some sort armour to the hull, but not too successfully.  As the first ship fires it damages the armour, chunks flying off after each volley.  As a volley hits a part of the ship without armour the blast rips through and out the other side, leaving clean holes through the ship.
+The display screen changes and refocuses on a closer up view.  We can now see the two ships clearly.   The first is an angular ship, all sharp corners and planes.  The other is, indeed, a modified Phoenix class Federation ship.  It has been modified to try to retrofit some sort of armour to the hull, but not too successfully.  As the first ship fires it damages the armour, chunks flying off after each volley.  As a volley hits a part of the ship without armour the blast rips through and out the other side, leaving clean holes through the ship.
 
 RAMIREZ
 Oh my...
@@ -704,11 +717,11 @@ Oh my...
 SA'AR
 The Federation ship is hailing us.
 
-Cassie nods.  The view screen is replaced with the inside of the Federation ship which has obviously seen better days.  In the centre of the bridge is Captain Hamilton (Male, Human, 50).
+Cassie nods.  The view screen is replaced with the inside of the Federation ship which has obviously seen better days.  In the centre of the bridge is Captain Jonas Hamilton (Male, Human, 50).
 
 CAPTAIN HAMILTON
 (through explosions)
-This is Captain Hamilton of the USS Cortana.  We have a Harpy chasing us.  Our armour is failing.  Request assistance.
+This is Captain Hamilton of the USS Cortana.  We have a Hrimfax chasing us.  Our armour is failing.  Request assistance.
 
 CASSIE
 We have no engines, Captain.  Bring her close to us and we will see what we can do.
@@ -813,13 +826,70 @@ Hail the Cortana.
 Captain Hamilton appears on the view screen.
 
 HAMILTON
-Well done, Captain, but I'm afraid that last shot hit our structural integrity field generators.  We have less than 1 minute of reserve power before my ship rips itself apart from inside.   You need to transport my crew off the ship.
+Well done, Captain, but I'm afraid that last shot hit our life support systems.  You need to transport my crew off the ship.
 
 CASSIE
 Understood.  Get everyone ready for transport.
 
-The view screen closes and Cassie turns to ops.
+The view screen closes.
 
 CASSIE (CONT'D)
-Get everyone off there and into the cargo bay.
+Get everyone off there and into the cargo bay.  And have Hamilton see me in my ready room as soon as he's patched up.
 
+SA'AR
+On it.
+  
+Sa'ar to medical.  Prepare for casualties in the cargo bay, Doctor.
+
+>** END OF ACT THREE **<
+
+===
+
+>** ACT FOUR **<
+
+INT. READY ROOM
+
+Hamilton and Cassie are sat down.  Hamilton's head is bandaged and his arm is in a sling.
+
+CASSIE
+I'm sorry we don't have full med-bay facilities Captain Hamilton.  We are just an experimental craft.
+
+HAMILTON
+Jonas.  Please call me Jonas.  You saved my crew, Captain...?
+
+CASSIE
+Lieutenant Commander Cassandra Hayle.  Cassie.
+
+HAMILTON
+We were lucky you were near our ship, Cassie.  If you hadn't been there when the Suavi found us...
+
+CASSIE
+The Suavi? The ship that was chasing you?
+
+Hamilton looks shocked.  How can she not know who the Suavi are?
+
+HAMILTON
+Yes.  Commander, what's your mission out here?  I've never seen your class of ship before.
+
+CASSIE
+We were experimenting with the Reese-Montgomery drive.  We left the Sol system and engaged the drive.  We experienced fluctuations related to the black-hole and came out of warp here.
+
+HAMILTON
+Reese-Montgomery drive... 
+
+Hamilton is trying to remember something someone told him many, many years ago
+
+HAMILTON (CONT'D)
+Oh, Jesus.  This is the USS Salvation?
+
+Cassie nods, uncertainly.
+
+HAMILTON (CONT'D)
+Commander... Cassie, the USS Salvation was reported lost with all hands during the Reese-Montgomery experiment. 
+  
+The drive was considered too dangerous and shelved.  But that was decades ago.  You've been missing... for 50 years.
+
+Cassie sits back in her chair, shocked and sickened.  How can this have happened?  Who is this new enemy the Federation faces?  How can she get her crew home?  Is it even possible to get back?
+
+>** END OF ACT FOUR **<
+>** END OF PART ONE **<
